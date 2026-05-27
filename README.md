@@ -135,6 +135,3 @@ I'm always open to collaborating on data-driven projects, discussing analytics, 
   <i>✨ "Data is not just numbers — it's the story behind every decision." ✨</i>
 </p>
 
-<p align="center">
-  Made with ❤️ by <strong>Churnika Priya Kothapalli</strong>
-</p>
