@@ -16,7 +16,6 @@
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
 ## 🙋‍♀️ About Me
 
 I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ years of experience** transforming raw data into powerful business insights. I specialize in building end-to-end data pipelines, crafting interactive dashboards, and delivering actionable analytics that drive real decisions.
@@ -34,7 +33,6 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 
 ---
 
-<!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -79,7 +77,6 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect With Me
 
 <p>
@@ -93,30 +90,35 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📈 GitHub Stats
+## 🏅 Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=churnikapriya17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churnikapriya17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=churnikapriya17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+## 💡 What I Do
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=churnikapriya17&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+```text
+📥  Data Ingestion       ████████████████████   ETL / ELT Pipelines
+🔍  Data Analysis        ████████████████████   SQL · Python · Pandas
+📊  Data Visualization   ████████████████████   Power BI · Tableau · QuickSight
+☁️  Cloud & Big Data     ████████████████████   AWS · Snowflake · Databricks
+🤖  Machine Learning     ███████████████░░░░░   Scikit-learn · Feature Engineering
+```
 
 ---
 
-<!-- SECTION H: FOOTER -->
+## 🌱 Currently
+
+- 📚 Deepening expertise in **ML for analytics** and **advanced data modeling**
+- 🛠️ Building projects with **PySpark** on **Databricks** and **AWS Glue**
+- 🎯 Preparing for **AWS Data Engineer Associate** certification
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on data-driven projects, discussing analytics, or just connecting with fellow data enthusiasts. Feel free to reach out!
