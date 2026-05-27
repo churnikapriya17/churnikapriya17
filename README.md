@@ -9,9 +9,11 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=churnikapriya17&label=Profile%20Views&color=00D9FF&style=flat-square)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/churnikapriya17?label=Followers&style=flat-square&color=7B2FBE)
+<br/>
+
+<img src="https://github.com/churnikapriya17/churnikapriya17/raw/main/profile.jpg" width="150" alt="Churnika Priya Kothapalli"/>
+
+</div>
 
 </div>
 
@@ -146,32 +148,6 @@ RAW DATA  ──►  [EXTRACT]  ──►  [TRANSFORM]  ──►  [LOAD]  ─�
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<!-- SECTION H: GITHUB TROPHIES -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=churnikapriya17&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" width="100%"/>
-
-</div>
-
----
-
-<!-- SECTION I: CONTRIBUTION SNAKE -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/churnikapriya17/churnikapriya17/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/churnikapriya17/churnikapriya17/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://github.com/churnikapriya17/churnikapriya17/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 
 </div>
 
