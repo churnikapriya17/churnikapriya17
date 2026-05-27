@@ -80,7 +80,7 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/churnikapriya17" target="_blank">
+  <a href="https://www.linkedin.com/in/churnikapriya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Churnika_Priya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/churnikapriya17" target="_blank">
@@ -93,8 +93,8 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://learn.microsoft.com/en-in/users/churnikapriyakothapalli-7423/credentials/43d95f3e774b2aeb" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a href="https://www.credly.com/badges/4f72e3d0-ba6c-4748-9360-2114db679323/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 </p>
 
 ---
@@ -124,7 +124,7 @@ I'm **Churnika Priya Kothapalli**, a results-driven **Data Analyst** with **3+ y
 I'm always open to collaborating on data-driven projects, discussing analytics, or just connecting with fellow data enthusiasts. Feel free to reach out!
 
 <p>
-  <a href="https://linkedin.com/in/churnikapriya17">
+  <a href="https://www.linkedin.com/in/churnikapriya/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
